@@ -23,9 +23,9 @@ Sou um apaixonado por tecnologia que transita entre a lógica do hardware e a cr
 
 ## 📂 Projetos em Destaque
 
-- **🚗Motor-digital**: site simulando uma agência de carros de luxo.
-- **⚡Esquemas-eletricos**: Uma plataforma de acesso a conteúdo técnico.
-- **🧠Alfred-adler**: Conceitos de psicologia referente a este autor.
+- **🚗 Motor-digital**: site simulando uma agência de carros de luxo.
+- **⚡ Esquemas-eletricos**: Uma plataforma de acesso a conteúdo técnico.
+- **🧠 Alfred-adler**: Conceitos de psicologia referente a este autor.
   
 ## 🌱 Em que estou trabalhando...
 - 🔭 Colaborando em projetos de criação de sites e interfaces de usuário.
