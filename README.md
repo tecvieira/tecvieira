@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="NOME_DO_ARQUIVO_DA_IMAGEM.png" alt="Banner Robson Vieira" width="100%">
+  <img src="./img/baner_redme.png" alt="Banner Robson Vieira" width="100%">
 </p>
 
 # Olá, eu sou Robson Vieira 👋
