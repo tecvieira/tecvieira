@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um entusiasta de tecnologia e desenvolvim
 ## 🛠️ Tecnologias e Ferramentas
 
 - Linguagens: Arduino, C, Python, HTML5, CSS3, JavaScript
-- Frameworks: Bootstrap, Angular
+- Frameworks: Bootstrap, React
 - Ferramentas: Git, VsCode,
 
 ## 📂 Projetos em Destaque
