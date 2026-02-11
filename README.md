@@ -2,9 +2,10 @@
   <img src="./img/baner_redme.png" alt="Banner Robson Vieira" width="100%">
 </p>
 
-# Olá, eu sou Robson Vieira 👋
+## 🚀 Olá, eu sou Robson Vieira 
+Desenvolvedor Front-End em Evolução | Entusiasta de IoT & Hardware
 
-Bem-vindo ao meu perfil no GitHub! Sou um entusiasta de tecnologia e desenvolvimento de software, sempre buscando aprender e compartilhar conhecimento.
+Sou um apaixonado por tecnologia que transita entre a lógica do hardware e a criatividade do Front-End. Atualmente focado em construir interfaces modernas e funcionais com o ecossistema JavaScript.
 
 ## 🚀 Sobre Mim
 
@@ -13,19 +14,27 @@ Bem-vindo ao meu perfil no GitHub! Sou um entusiasta de tecnologia e desenvolvim
 - 💬 Você pode me encontrar em https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit.
 - 📫 Como me contatar: tecvander.vieira@gmail.com.
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Minha Stack Tecnológica
 
 - Linguagens: Arduino, C, Python, HTML5, CSS3, JavaScript
 - Frameworks: Bootstrap, React
 - Ferramentas: Git, VsCode,
+  
 
 ## 📂 Projetos em Destaque
 
-- **Motor-digital**: site simulando uma agência de carros de luxo.
-- **Esquemas-eletricos**: Uma plataforma de acesso a conteúdo técnico.
-- **Alfred-adler**: Conceitos de psicologia referente a este autor.
+- **🚗Motor-digital**: site simulando uma agência de carros de luxo.
+- **⚡Esquemas-eletricos**: Uma plataforma de acesso a conteúdo técnico.
+- **🧠Alfred-adler**: Conceitos de psicologia referente a este autor.
+  
+## 🌱 Em que estou trabalhando...
+- 🔭 Colaborando em projetos de criação de sites e interfaces de usuário.
 
-## 🔗 Links Úteis
+- 📚 Aprofundando conhecimentos em React.js e Clean Code.
+
+- 💬 Aberto a conversas sobre tecnologia, psicologia e eletrônica.
+
+## 📫 Vamos nos conectar?
 
 - https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit (link do LinkedIn)
 
